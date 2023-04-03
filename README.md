@@ -2,5 +2,4 @@
 
 ## polynomial-egcd
 
-This is a utility for calculating the greatest common divisor of two polynomials with
-rational coefficients.
+This is a collection of small utilities for working with polynomials with coefficients in $Z_7$.
